@@ -1,7 +1,5 @@
 # Projects Portfolio
 
-# Project Portfolio
-
 Welcome to my project portfolio! Here are some of the projects I've worked on:
 
 ## [Project 1: Forecasting Residential Property Values in Malaysia](https://github.com/naimzol/Forecasting-Residential-Property-Values)
