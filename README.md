@@ -1,4 +1,4 @@
-# Projects Portfolio
+# Muhamad Naim bin Zol
 
 Welcome to my Data Science portfolio! Here are some of the projects I have worked on:
 
