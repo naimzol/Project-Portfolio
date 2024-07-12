@@ -1,6 +1,6 @@
 title: My GitHub Pages Site
 description: This is a sample description for my GitHub Pages site.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Additional settings
 baseurl: "/my-site" # the subpath of your site, e.g. /blog
