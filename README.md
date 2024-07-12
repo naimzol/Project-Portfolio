@@ -62,7 +62,7 @@ Welcome to my Data Science portfolio! Here are some of the projects I have worke
 ![](image/deep-learning/training-and-validation-accuracy.png)
 ![](image/deep-learning/Predicted%20Result%20vs%20Actual%20Result.png)
 
-## [Project 5: Malaysia Socioeconomic Trends](https://github.com/naimzol/Paddy-Disease-Classification)
+## [Project 5: Malaysia Socioeconomic Trends](https://github.com/naimzol/Malaysia-Socioeconomic-Trends-Data-Visualization)
 
 **Description**: This project using  **data visualization** techniques, provides insights into the economic conditions of different districts in Malaysia by visualizing key socioeconomic indicators. The visualizations created using Matplotlib, and Seaborn help to identify patterns and disparities across regions, aiding in better understanding and decision-making.
 
