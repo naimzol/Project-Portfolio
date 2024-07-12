@@ -14,7 +14,8 @@ Welcome to my Data Science portfolio! Here are some of the projects I have worke
 - Outlier detection
 - Model training and evaluation using linear regression, Lasso, and Ridge regression
 
-- ![](image/machine-learning/Number%20of%20Project%20Based%20on%20State.png))
+![](image/machine-learning/median%20price%20vs%20median%20psf.png)
+![](image/machine-learning/Number%20of%20Project%20Based%20on%20State.png)
 
 ## [Project 2: KLSE Stock Data Analysis](https://github.com/naimzol/KLSE-Stock-Data-Analysis)
 
