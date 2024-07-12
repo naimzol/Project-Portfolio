@@ -1,4 +1,4 @@
-# Data Science Project Portfolio
+# Data Science Portfolio
 
 Welcome to my Data Science portfolio! Here are some of the projects I have worked on:
 
