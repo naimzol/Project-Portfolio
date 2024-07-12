@@ -15,7 +15,7 @@ Welcome to my project portfolio! Here are some of the projects I've worked on:
 - Model training and evaluation using linear regression, Lasso, and Ridge regression
 - Visualizations to showcase model performance
 
-- ![Residential Property Values]([image/machine-learning/Average%20Value%20of%20Property.png))
+- ![Residential Property Values]([/image/machine-learning/Average%20Value%20of%20Property.png)
 
 ## [Project 2: KLSE Stock Data Analysis](https://github.com/naimzol/KLSE-Stock-Data-Analysis)
 
