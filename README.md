@@ -32,17 +32,20 @@ Welcome to my Data Science portfolio! Here are some of the projects I have worke
 ![](image/timeseries-analysis/Close%20Plot%20Graph.png)
 ![](image/timeseries-analysis/Quarterly%20Datetime%20Series%20Analysis.png)  
 
-## [Project 3: OCR-Word-Detection](https://github.com/naimzol/OCR-Word-Detection)
+## [Project 3: OCR Word Detection](https://github.com/naimzol/OCR-Word-Detection)
 
 **Description**: This project leverages advanced image processing and machine learning techniques to detect and extract words from images using Python, EasyOCR, PyTorch, and OpenCV.
 
-**Technologies Used**: Python, EasyOCR, PyTorch, OpenCV
+**Tools and Libraries**: Python, EasyOCR, PyTorch, OpenCV
 
 **Key Features**:
 - Image preprocessing and enhancement
 - OCR model implementation using EasyOCR
 - Word detection and extraction from images
 - Visualization of detected words on images
+
+![](image/ocr-detection/stop-signs-eight-sides.jpg)
+![](image/ocr-detection/stop.png)
 
 ## [Project 4: Paddy Disease Classification](https://github.com/naimzol/Paddy-Disease-Classification)
 
