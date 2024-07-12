@@ -2,4 +2,4 @@ title: Muhamad Naim Bin Zol
 logo
 #description: text below image
 show_downloads: true
-theme: jekyll-thme-minimal
+theme: - jekyll-remote-theme
