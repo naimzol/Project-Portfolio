@@ -19,15 +19,18 @@ Welcome to my Data Science portfolio! Here are some of the projects I have worke
 
 ## [Project 2: KLSE Stock Data Analysis](https://github.com/naimzol/KLSE-Stock-Data-Analysis)
 
-**Description**: This project involves analyzing KLSE stock data using various time series analysis techniques and Pandas functionalities.
+**Description**: This project involves analyzing KLSE stock data using various **timeseries analysis** techniques.
 
-**Technologies Used**: Python, Pandas, Matplotlib, Seaborn
+**Tools and Libraries**: Python, Pandas, Matplotlib, Seaborn
 
 **Key Features**:
 - Time series data preprocessing and cleaning
 - Resampling and visualization of time series data
 - Analysis of stock trends and patterns
-- Comparison of KLSE stock data with other datasets
+- Quarterly Time Period Analysis
+
+![](image/timeseries-analysis/Close%20Plot%20Graph.png)
+![](image/timeseries-analysis/Quarterly%20Datetime%20Series%20Analysis.png)  
 
 ## [Project 3: OCR-Word-Detection](https://github.com/naimzol/OCR-Word-Detection)
 
