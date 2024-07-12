@@ -4,18 +4,17 @@ Welcome to my Data Science portfolio! Here are some of the projects I have worke
 
 ## [Project 1: Forecasting Residential Property Values in Malaysia](https://github.com/naimzol/Forecasting-Residential-Property-Values)
 
-**Description**: This project focuses on predicting residential property values in Malaysia using machine learning techniques. Key features include data cleaning, feature engineering, and using Lasso and Ridge regression models.
+**Description**: This project focuses on predicting residential property values in Malaysia using machine learning techniques. Key features include data cleaning, feature engineering, and using Linear, Lasso and Ridge regression models.
 
-**Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+**Tools and Libraries**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 **Key Features**:
 - Data preprocessing and cleaning
 - Feature engineering
 - Outlier detection
 - Model training and evaluation using linear regression, Lasso, and Ridge regression
-- Visualizations to showcase model performance
 
-- ![Residential Property Values](/image/machine-learning/Average%20Value%20of%20Property.png)
+- ![](image/machine-learning/Number%20of%20Project%20Based%20on%20State.png))
 
 ## [Project 2: KLSE Stock Data Analysis](https://github.com/naimzol/KLSE-Stock-Data-Analysis)
 
