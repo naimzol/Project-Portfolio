@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+# MUHAMAD NAIM BIN ZOL
+
 Welcome to my Data Science portfolio! Here are some of the projects I have worked on:
 
 ## [Project 1: Forecasting Residential Property Values in Malaysia](https://github.com/naimzol/Forecasting-Property-Values-Machine-Learning)
